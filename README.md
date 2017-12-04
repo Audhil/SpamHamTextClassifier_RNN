@@ -4,7 +4,7 @@ An attempt to build a text classifier.
 
 # network POST request
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Audhil/SpamHamTextClassifier_RNN/master/images/POST_req.png" width="300" height="300">
+  <img src="https://raw.githubusercontent.com/Audhil/SpamHamTextClassifier_RNN/master/images/POST_req.png" width="600" height="300">
   </p>
   
 # Ham
@@ -14,5 +14,5 @@ An attempt to build a text classifier.
  
 # Spam
       <p align="center">
-    <img src="https://raw.githubusercontent.com/Audhil/SpamHamTextClassifier_RNN/master/images/spam.png" width="300" height="300">
-</p>
+    <img src="https://raw.githubusercontent.com/Audhil/SpamHamTextClassifier_RNN/master/images/spam.png" width="300"  height="300">
+    </p>
